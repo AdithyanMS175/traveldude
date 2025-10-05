@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
     }],
     unoptimized: true, // disables next/image optimization
   },
+  devIndicators:false
 };
 
 export default nextConfig;
